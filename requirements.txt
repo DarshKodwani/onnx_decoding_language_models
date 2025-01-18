@@ -2,3 +2,4 @@ transformers
 torch
 onnx
 onnxruntime
+onnxconverter-common
